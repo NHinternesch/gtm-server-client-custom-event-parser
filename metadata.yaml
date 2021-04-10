@@ -15,5 +15,5 @@
 homepage: "https://hinternesch.com"
 documentation: ""
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 5df56aa355e5cfa017a955342180b382b4e13d7d
     changeNotes: Initial Version
