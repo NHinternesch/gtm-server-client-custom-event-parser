@@ -15,3 +15,4 @@ ip | GTM Server-Side Tagging API
 timestamp | GTM Server-Side Tagging API
 *CookieName* | Request Header: cookie (*CookieName* as specified in the template input field)
 
+Please feel free to get in touch for feedback and suggestions. 
