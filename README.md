@@ -5,7 +5,6 @@ This client template for Google Tag Manager Server-Side takes an incoming reques
 For an example request like `https://myServerContainer.com/measure?property1=value1&property2=value2&property3=value3`, the **event data mapping** for the object returned would look like this:
 
 Event Object Key | Source
---- | ---
 property1 | Query String 
 property2 | Query String
 property3 | Query String
