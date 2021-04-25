@@ -15,6 +15,6 @@ ip | GTM Server-Side Tagging API
 timestamp | GTM Server-Side Tagging API
 *CookieName* | Request Header: cookie (*CookieName* as specified in the template input field)
 
-Full blog with instructions available [here](https://nhinternesch.medium.com/google-tag-manager-server-side-parsing-event-data-from-any-custom-vendor-request-4d2ea7f25991). 
+Full blog post with instructions available [here](https://nhinternesch.medium.com/google-tag-manager-server-side-parsing-event-data-from-any-custom-vendor-request-4d2ea7f25991). 
 
 Please feel free to get in touch for feedback and suggestions. 
