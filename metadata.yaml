@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://hinternesch.com"
-documentation: ""
+documentation: "https://nhinternesch.medium.com/google-tag-manager-server-side-parsing-event-data-from-any-custom-vendor-request-4d2ea7f25991"
 versions:
   - sha: a10aa35cb0232f24065ba09da8bb9fd3482e618b
     changeNotes: Initial Version
