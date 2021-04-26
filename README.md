@@ -1,6 +1,6 @@
 # Custom Event Parser
 
-This client template for Google Tag Manager Server-Side takes an incoming request, extracts information from the query string, headers, IP, and cookies and returns the data to the server container as an event object. It is vendor agnostic and can handle any tracking request.
+This client template for Google Tag Manager Server-Side takes an incoming GET request, extracts information from the query string, headers, IP, and cookies and returns the data to the server container as an event object. It is vendor agnostic and can handle any GET tracking request.
 
 For an example request like `https://myServerContainer.com/measure?property1=value1&property2=value2&property3=value3`, the **event data mapping** for the object returned would look like this:
 
