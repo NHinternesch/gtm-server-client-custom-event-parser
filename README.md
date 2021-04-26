@@ -9,9 +9,9 @@ Event Object Key | Source
 property1 | Query String 
 property2 | Query String
 property3 | Query String
-url | Request Header: referer
-userAgent | Request Header: user-agent
-ip | GTM Server-Side Tagging API
+page_location | Request Header: referer
+user_agent | Request Header: user-agent
+ip_override | GTM Server-Side Tagging API
 timestamp | GTM Server-Side Tagging API
 *CookieName* | Request Header: cookie (*CookieName* as specified in the template input field)
 
