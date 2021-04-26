@@ -17,3 +17,7 @@ documentation: "https://nhinternesch.medium.com/google-tag-manager-server-side-p
 versions:
   - sha: a10aa35cb0232f24065ba09da8bb9fd3482e618b
     changeNotes: Initial Version
+  - sha: 4e38a26d83a91e885e6ee88692150b72abe7fd28
+    changeNotes: Update to align event object properties with common event data glossary
+
+
