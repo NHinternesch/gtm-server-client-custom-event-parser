@@ -12,6 +12,8 @@ Event Object Key | Source
 property1 | Query String 
 property2 | Query String
 property3 | Query String
+fullQueryString | Query String
+requestPath | Path
 bodyProperty1 | Request Body
 bodyProperty2 | Request Body
 page_location | Request Header: referer
