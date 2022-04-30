@@ -23,4 +23,9 @@ versions:
     changeNotes: Update to add functionality for POST requests
   - sha: e92ac2881a1a8f89c80b90aa79cf10ed1ff5cc58
     changeNotes: Update to add missing template categories
+  - sha: f83e826dd783f6279a27a15052f8308e71c315c9
+    changeNotes: Added fullQueryString and requestPath to event object
+  
+  
+  
 
